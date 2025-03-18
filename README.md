@@ -16,7 +16,7 @@ Ensure you have Python and Jupyter Notebook installed. You can install the requi
 pip install tensorflow numpy matplotlib
 Usage
 1.	Clone the repository:
-git clone https://github.com/yourusername/fashion-mnist-classification.git
+git clone https://github.com/Alims-jay/fashion-mnist-classification.git
 2.	Navigate to the project directory:
 cd fashion-mnist-classification
 3.	Launch Jupyter Notebook:
